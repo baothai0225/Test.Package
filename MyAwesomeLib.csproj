@@ -6,14 +6,13 @@
     <Nullable>enable</Nullable>
 
     <!-- NuGet package info -->
-    <PackageId>MyAwesomeLib</PackageId>
-    <Version>1.0.0</Version>
-    <Authors>my-github-user</Authors>
-    <Company>my-github-user</Company>
+    <PackageId>Test.Package</PackageId>
+    <Version>1.0.6</Version>
+    <Authors>baothai0225</Authors>
+    <Company>baothai0225</Company>
     <Description>Sample library to show GitHub Packages publishing.</Description>
-    <RepositoryUrl>https://github.com/my-github-user/MyAwesomeLib</RepositoryUrl>
-    <PackageProjectUrl>https://github.com/my-github-user/MyAwesomeLib</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/baothai0225/Test.Package</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/baothai0225/Test.Package</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
-
