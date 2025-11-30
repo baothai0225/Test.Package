@@ -7,7 +7,6 @@
 
     <!-- NuGet package info -->
     <PackageId>Test.Package</PackageId>
-    <Version>1.0.6</Version>
     <Authors>baothai0225</Authors>
     <Company>baothai0225</Company>
     <Description>Sample library to show GitHub Packages publishing.</Description>
