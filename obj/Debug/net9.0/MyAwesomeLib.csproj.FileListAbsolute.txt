@@ -1,0 +1,11 @@
+D:\Learning\Test\MyAwesomeLib\bin\Debug\net9.0\MyAwesomeLib.deps.json
+D:\Learning\Test\MyAwesomeLib\bin\Debug\net9.0\MyAwesomeLib.dll
+D:\Learning\Test\MyAwesomeLib\bin\Debug\net9.0\MyAwesomeLib.pdb
+D:\Learning\Test\MyAwesomeLib\obj\Debug\net9.0\MyAwesomeLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Test\MyAwesomeLib\obj\Debug\net9.0\MyAwesomeLib.AssemblyInfoInputs.cache
+D:\Learning\Test\MyAwesomeLib\obj\Debug\net9.0\MyAwesomeLib.AssemblyInfo.cs
+D:\Learning\Test\MyAwesomeLib\obj\Debug\net9.0\MyAwesomeLib.csproj.CoreCompileInputs.cache
+D:\Learning\Test\MyAwesomeLib\obj\Debug\net9.0\MyAwesomeLib.dll
+D:\Learning\Test\MyAwesomeLib\obj\Debug\net9.0\refint\MyAwesomeLib.dll
+D:\Learning\Test\MyAwesomeLib\obj\Debug\net9.0\MyAwesomeLib.pdb
+D:\Learning\Test\MyAwesomeLib\obj\Debug\net9.0\ref\MyAwesomeLib.dll
