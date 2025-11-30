@@ -1,4 +1,5 @@
 @echo off
+dotnet clean
 dotnet pack -c Release
 
 REM Push any Test.Package.*.nupkg in Release
